@@ -1,0 +1,3 @@
+/home/troy/share_zp/CMakeFiles/rebuild_cache.dir
+/home/troy/share_zp/CMakeFiles/edit_cache.dir
+/home/troy/share_zp/CMakeFiles/start.dir
